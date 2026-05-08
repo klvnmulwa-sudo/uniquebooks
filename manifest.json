@@ -1,0 +1,16 @@
+{
+  "name": "Unique Books Management",
+  "short_name": "Unique Books",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f2d6e",
+  "theme_color": "#1a56db",
+  "description": "Bookshop Management System",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231a56db'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white' font-weight='bold'>UB</text></svg>",
+      "sizes": "100x100",
+      "type": "image/svg+xml"
+    }
+  ]
+}
