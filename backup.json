@@ -1,0 +1,5 @@
+console.log("Local invoices:", JSON.parse(localStorage.getItem("ub-invoices") || "[]").length)
+VM58:1 Local invoices: 46
+undefined
+copy(localStorage.getItem("ub-invoices"));
+undefined
