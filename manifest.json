@@ -1,7 +1,7 @@
 {
   "name": "Unique Books Management",
   "short_name": "Unique Books",
-  "start_url": ".",
+  "start_url": "/uniquebooks/",
   "display": "standalone",
   "background_color": "#0f2d6e",
   "theme_color": "#1a56db",
