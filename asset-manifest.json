@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.92e75f0e.js",
-    "index.html": "/index.html",
-    "main.92e75f0e.js.map": "/static/js/main.92e75f0e.js.map"
+    "main.js": "/uniquebooks/static/js/main.1f6da6b7.js",
+    "index.html": "/uniquebooks/index.html",
+    "main.1f6da6b7.js.map": "/uniquebooks/static/js/main.1f6da6b7.js.map"
   },
   "entrypoints": [
-    "static/js/main.92e75f0e.js"
+    "static/js/main.1f6da6b7.js"
   ]
 }
