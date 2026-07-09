@@ -1,4 +1,4 @@
-const CACHE_NAME = 'unique-books-v1';
+const CACHE_NAME = 'unique-books-v2';
 const BASE_PATH = '/uniquebooks/';
 
 self.addEventListener('install', function(e) { 
